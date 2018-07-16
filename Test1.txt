@@ -1,10 +1,4 @@
-test
-
-test
-hh
-
-jjj
-
+Test full cycle
 Let's try commit from the code
 
 Now let's try add and commit
